@@ -1,1 +1,5 @@
-int main(){}
+class TPen{};
+
+int main(){
+	TPen pen;
+}
